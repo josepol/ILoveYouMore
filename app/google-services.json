@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "497427954902",
+    "firebase_url": "https://iloveyoumore-ffd5f.firebaseio.com",
+    "project_id": "iloveyoumore-ffd5f",
+    "storage_bucket": "iloveyoumore-ffd5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497427954902:android:cc6424d96e3a5e71",
+        "android_client_info": {
+          "package_name": "app.josepol.com.iloveyoumore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497427954902-tqirsdil26io37pq38dqueht8vm1s0p0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJdNR2cVgtDU-m8dwLLOl98ZCZpIMR9NY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
